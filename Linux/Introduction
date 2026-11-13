@@ -7,7 +7,11 @@ In this material we will learn about Linux Operating system
 
 Linux Operating system
 It is software between application process or program and hardware of computer which provide access to computer hardware to run application programs or process on computer.
-For example: If python program want to perform any task or execute intstruction it need to access CPU , Memory. program will access using OS.
+For example: If python program want to perform any task or execute intstruction it need to access CPU , Memory. program will access computer resource using OS.
+
+
+
+
 
 
 
