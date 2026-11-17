@@ -10,6 +10,15 @@ File system Hierarchy start with root directory which indicates "/"
 /lib  - it holds shared libraries and loader components.
 /usr/local - is reserved for software and data installed by the local administrator outside the distribution's normal /usr management
 /opt - can hold add-on application packages in self-contained subtrees.
+/home - It is home directories for non root user.
+/root - It is root directory which files and directories related to root.
+/srv  - is used to store data that is served by the system to clients over a network.
+/var - It is contain variable data such as logs , cache , spools and applications state . System logs commonly appear under /var/log
+/tmp - Temporary files 
+/dev - contains devices nodes and  related runtime links.
+/proc - exposes process and kernel interfaces through procfs.
+/media is commonly used for automatically mounted removable media.
+/mnt is a conventional location for temporary administrator mounts.
 
 
 
