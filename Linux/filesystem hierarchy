@@ -1,1 +1,19 @@
+File system Hierarchy:
+The File System Hierarchy (FHS) is a standardized directory structure used in Linux to organize and store files and directories in a hierarchical (tree-like) manner. All files and directories start from the root directory (/), which is the top-most directory in Linux.
+
+File system Hierarchy start with root directory which indicates "/"
+
+/etc -  It is holds host specific system configuration. it can contain exectuable helper or startup scripts.
+/boot - holds boot-related files such as boot-loader data and, on many systems, kernels and initial RAM filesystem images.
+/bin -  It holds user commands 
+/sbin - it holds system-administration commands.
+/lib  - it holds shared libraries and loader components.
+/usr/local - is reserved for software and data installed by the local administrator outside the distribution's normal /usr management
+/opt - can hold add-on application packages in self-contained subtrees.
+
+
+
+
+
+
 
