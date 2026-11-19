@@ -27,7 +27,7 @@ customized version of linux where individual campany developed with some extra p
 
 Types of Linux Distruibation:
 
-1) Ubuntu # br
+1) Ubuntu
 2 ) Centos OS 
 3 ) Kali Linux 
 4 ) Fedora
