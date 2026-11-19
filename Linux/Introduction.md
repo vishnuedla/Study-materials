@@ -11,6 +11,7 @@ For example: If python program want to perform any task or execute intstruction 
 
 # Linux architecture:
 Below are main layers in linux Architecture
+
 Hardware layer : This layer consist of computer hardware CPU , RAM , Storage and Input and Output devices 
 Kernel layer : This is core component of Linux OS which allocate Hardware resource to applications
 System Libraries: Pre written code which provide application to access kernel through system calls without require access to kernal code.
