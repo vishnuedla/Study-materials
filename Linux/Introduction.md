@@ -26,6 +26,7 @@ User Application: Where software programs , utilies and graphical interfaces tha
 customized version of linux where individual campany developed with some extra packages , system utilies to users.
 
 Types of Linux Distruibation:
+
 Ubuntu 
 Centos OS 
 Kali Linux 
