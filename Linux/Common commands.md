@@ -39,6 +39,17 @@ relative path: It a file or directory path that is defined relative to the curre
 example: In above example access absolute file by cat absolute when you are there at that directory.
 <img width="953" height="110" alt="image" src="https://github.com/user-attachments/assets/e0073a32-85ec-46cd-80ae-0f5878ec6042" />
 
+## cd (change directory)
+It is used to change directories in linux operating system.
+
+Example:
+<img width="951" height="122" alt="image" src="https://github.com/user-attachments/assets/c91b79ce-9e3e-42f2-8add-1ae4e7a3efef" />
+
+
+
+
+
+
 
 
 
