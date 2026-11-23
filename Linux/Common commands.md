@@ -74,6 +74,31 @@ It  is use to move file or directory from one directory to another directory.
 
 <img width="957" height="200" alt="image" src="https://github.com/user-attachments/assets/c93f991b-b83b-4ceb-8ad6-6520d2769190" />
 
+## mkdir
+It is used to create directory.
+
+Example: 
+<img width="952" height="116" alt="image" src="https://github.com/user-attachments/assets/e982d40d-7aa7-4c71-af27-0364e1a3a1e5" />
+
+## rm 
+
+It is used to delete file.
+Example: 
+<img width="959" height="126" alt="image" src="https://github.com/user-attachments/assets/64e91858-e822-4a37-8728-a6d112be53d3" />
+
+## man 
+It is command use to get help of particular command .
+Example: 
+<img width="955" height="31" alt="image" src="https://github.com/user-attachments/assets/a31b695b-395c-4022-937b-cf1d8c4bdb75" />
+<img width="956" height="304" alt="image" src="https://github.com/user-attachments/assets/fb3872c9-590f-473a-ad4b-d43f5a2e543d" />
+
+
+
+
+
+
+
+
 
 
 
