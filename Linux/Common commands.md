@@ -1,4 +1,4 @@
-# Commands which are used daily
+# Commands which are used daily in Linux
 ## Terminal
 It is software where you type commands like PowerShell windows.
 ## Shell 
