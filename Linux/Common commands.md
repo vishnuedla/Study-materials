@@ -63,13 +63,13 @@ It is use to check command you have execute.
 Example:
 <img width="959" height="200" alt="image" src="https://github.com/user-attachments/assets/ff311a38-e57e-4af6-94f2-b710275a5b3c" />
 
-## cp
+## cp (Copy)
 It is use to copy the file or directory.
 
 Example: 
 <img width="956" height="74" alt="image" src="https://github.com/user-attachments/assets/5b883e84-73c6-4e98-9e40-98e1af434805" />
 
-mv
+## mv (Move)
 It  is use to move file or directory from one directory to another directory.
 
 <img width="957" height="200" alt="image" src="https://github.com/user-attachments/assets/c93f991b-b83b-4ceb-8ad6-6520d2769190" />
