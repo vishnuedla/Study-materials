@@ -1,4 +1,4 @@
-# Basic Linux concepts to start
+# Commands which are used daily
 ## Terminal
 It is software where you type commands like PowerShell windows.
 ## Shell 
