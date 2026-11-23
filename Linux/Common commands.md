@@ -1,6 +1,8 @@
 # Basic Linux concepts to start
-Terminal - It is software where you type commands like PowerShell windows.
-Shell - It is program running inside terminal , example : bash
+## Terminal
+It is software where you type commands like PowerShell windows.
+## Shell 
+It is program running inside terminal , example : bash
 
 ## Bash Shell 
 It is standard for bash again shell , when you open terminal you will greet with shell like below 
@@ -11,6 +13,7 @@ example:
 In above image $ indicate shell is ready to accept input using normal user and # is logged as root user.
 
 ____________________________________________________________________________________________________________
+
 
 
 
