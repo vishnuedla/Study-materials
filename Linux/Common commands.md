@@ -92,6 +92,12 @@ Example:
 <img width="955" height="31" alt="image" src="https://github.com/user-attachments/assets/a31b695b-395c-4022-937b-cf1d8c4bdb75" />
 <img width="956" height="304" alt="image" src="https://github.com/user-attachments/assets/fb3872c9-590f-473a-ad4b-d43f5a2e543d" />
 
+## exit 
+It is command use to exit  or close present working shell 
+
+Example: 
+
+
 
 
 
