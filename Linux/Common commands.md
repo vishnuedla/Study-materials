@@ -7,7 +7,7 @@ It is program running inside terminal , example : bash
 ## Bash Shell 
 It is standard for bash again shell , when you open terminal you will greet with shell like below 
 
-example: 
+Example:
 <img width="960" height="36" alt="image" src="https://github.com/user-attachments/assets/17dd3801-c464-4c60-b001-934e40a850ca" />
 
 In above image $ indicate shell is ready to accept input using normal user and # is logged as root user.
@@ -16,7 +16,7 @@ In above image $ indicate shell is ready to accept input using normal user and #
 ## Echo 
 It is used to print when  text is passed into command
 
-example:
+Example:
 <img width="943" height="81" alt="image" src="https://github.com/user-attachments/assets/5371fd6c-e2be-4b96-85ab-8b429c2daaba" />
 
 ## PWD (Present working directory)
@@ -31,7 +31,7 @@ As we described in Filesystem hierarchy , different file are located in differen
 
 Absolute path - path start from root directory / to specific location of files
 
-example: 
+Example:
 I have created file directory /home/vishnu/vishnu/file with of absolute , so if i want to access the absolute i will access using full path cat /home/vishnu/vishnu/file/absolute
 <img width="956" height="88" alt="image" src="https://github.com/user-attachments/assets/773618b5-f967-49c4-9c83-51b4864d6b30" />
 
@@ -48,22 +48,33 @@ Example:
 ## ls (list directories)
 It is use to list directories in linux OS
 
-example: 
+Example:
 <img width="935" height="80" alt="image" src="https://github.com/user-attachments/assets/31fe0b21-1caf-4bd3-a24e-ec8cf560fb27" />
 
 ## touch
 It is use to create file and modify time.
 
-example:
+Example:
 <img width="959" height="116" alt="image" src="https://github.com/user-attachments/assets/590b7322-d4a6-429a-932a-f3b147a8e5ee" />
 
 ## history 
 It is use to check command you have execute.
 
-example:
+Example:
 <img width="959" height="200" alt="image" src="https://github.com/user-attachments/assets/ff311a38-e57e-4af6-94f2-b710275a5b3c" />
 
 ## cp
+It is use to copy the file or directory.
+
+Example: 
+<img width="956" height="74" alt="image" src="https://github.com/user-attachments/assets/5b883e84-73c6-4e98-9e40-98e1af434805" />
+
+mv
+It  is use to move file or directory from one directory to another directory.
+
+<img width="957" height="200" alt="image" src="https://github.com/user-attachments/assets/c93f991b-b83b-4ceb-8ad6-6520d2769190" />
+
+
 
 
 
