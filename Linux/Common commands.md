@@ -45,6 +45,31 @@ It is used to change directories in linux operating system.
 Example:
 <img width="951" height="122" alt="image" src="https://github.com/user-attachments/assets/c91b79ce-9e3e-42f2-8add-1ae4e7a3efef" />
 
+## ls (list directories)
+It is use to list directories in linux OS
+
+example: 
+<img width="935" height="80" alt="image" src="https://github.com/user-attachments/assets/31fe0b21-1caf-4bd3-a24e-ec8cf560fb27" />
+
+## touch
+It is use to create file and modify time.
+
+example:
+<img width="959" height="116" alt="image" src="https://github.com/user-attachments/assets/590b7322-d4a6-429a-932a-f3b147a8e5ee" />
+
+## history 
+It is use to check command you have execute.
+
+example:
+<img width="959" height="200" alt="image" src="https://github.com/user-attachments/assets/ff311a38-e57e-4af6-94f2-b710275a5b3c" />
+
+## cp
+
+
+
+
+
+
 
 
 
