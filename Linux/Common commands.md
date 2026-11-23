@@ -102,7 +102,6 @@ Example:
 
 <img width="944" height="268" alt="image" src="https://github.com/user-attachments/assets/c47d3f06-2f83-49f2-aec1-dd41246d11fd" />
 
-
 ## exit 
 It is command use to exit  or close present working shell 
 
